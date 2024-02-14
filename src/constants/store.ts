@@ -1,0 +1,5 @@
+export enum ActionConstent {
+    SET_PEOPLE = 'SET_PEOPLE',
+    SET_CHARACTER = 'SET_CHARACTER',
+    RESET_CHARACTER = 'RESET_CHARACTER'
+}
